@@ -1,0 +1,1423 @@
+{
+    "55432112": {
+        "league_id": 55432112,
+        "years": [
+            2023,
+            2022,
+            2021,
+            2020
+        ],
+        "commissioner": null,
+        "2023": {
+            "teams": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "draft": [],
+            "standings": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "reg_season_num_weeks": 15
+        },
+        "2022": {
+            "teams": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "draft": [
+                {
+                    "team_id": 4,
+                    "player_id": 3068267,
+                    "player_name": "Austin Ekeler",
+                    "round_num": 1,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 2977187,
+                    "player_name": "Cooper Kupp",
+                    "round_num": 1,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3117251,
+                    "player_name": "Christian McCaffrey",
+                    "round_num": 1,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3043078,
+                    "player_name": "Derrick Henry",
+                    "round_num": 1,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4262921,
+                    "player_name": "Justin Jefferson",
+                    "round_num": 2,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4242335,
+                    "player_name": "Jonathan Taylor",
+                    "round_num": 2,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4362628,
+                    "player_name": "Ja'Marr Chase",
+                    "round_num": 2,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3116365,
+                    "player_name": "Mark Andrews",
+                    "round_num": 2,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3126486,
+                    "player_name": "Deebo Samuel",
+                    "round_num": 3,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 15847,
+                    "player_name": "Travis Kelce",
+                    "round_num": 3,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 2976212,
+                    "player_name": "Stefon Diggs",
+                    "round_num": 3,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4241457,
+                    "player_name": "Najee Harris",
+                    "round_num": 3,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 16800,
+                    "player_name": "Davante Adams",
+                    "round_num": 4,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3116385,
+                    "player_name": "Joe Mixon",
+                    "round_num": 4,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3918298,
+                    "player_name": "Josh Allen",
+                    "round_num": 4,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3054850,
+                    "player_name": "Alvin Kamara",
+                    "round_num": 4,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3116406,
+                    "player_name": "Tyreek Hill",
+                    "round_num": 5,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3116593,
+                    "player_name": "Dalvin Cook",
+                    "round_num": 5,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4241389,
+                    "player_name": "CeeDee Lamb",
+                    "round_num": 5,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 15818,
+                    "player_name": "Keenan Allen",
+                    "round_num": 5,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3139477,
+                    "player_name": "Patrick Mahomes",
+                    "round_num": 6,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4259545,
+                    "player_name": "D'Andre Swift",
+                    "round_num": 6,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3115364,
+                    "player_name": "Leonard Fournette",
+                    "round_num": 6,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 4038941,
+                    "player_name": "Justin Herbert",
+                    "round_num": 6,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3045147,
+                    "player_name": "James Conner",
+                    "round_num": 7,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3042519,
+                    "player_name": "Aaron Jones",
+                    "round_num": 7,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 16737,
+                    "player_name": "Mike Evans",
+                    "round_num": 7,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4361579,
+                    "player_name": "Javonte Williams",
+                    "round_num": 7,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4360248,
+                    "player_name": "Kyle Pitts",
+                    "round_num": 8,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3915416,
+                    "player_name": "DJ Moore",
+                    "round_num": 8,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4239993,
+                    "player_name": "Tee Higgins",
+                    "round_num": 8,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 4035687,
+                    "player_name": "Michael Pittman Jr.",
+                    "round_num": 8,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3040151,
+                    "player_name": "George Kittle",
+                    "round_num": 9,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3929630,
+                    "player_name": "Saquon Barkley",
+                    "round_num": 9,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3916387,
+                    "player_name": "Lamar Jackson",
+                    "round_num": 9,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4427366,
+                    "player_name": "Breece Hall",
+                    "round_num": 9,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 15683,
+                    "player_name": "Justin Tucker",
+                    "round_num": 10,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4040715,
+                    "player_name": "Jalen Hurts",
+                    "round_num": 10,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4047646,
+                    "player_name": "A.J. Brown",
+                    "round_num": 10,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 2330,
+                    "player_name": "Tom Brady",
+                    "round_num": 10,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 4249087,
+                    "player_name": "Matt Gay",
+                    "round_num": 11,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": -16002,
+                    "player_name": "Bills D/ST",
+                    "round_num": 11,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3045138,
+                    "player_name": "Mike Williams",
+                    "round_num": 11,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3128720,
+                    "player_name": "Nick Chubb",
+                    "round_num": 11,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3051392,
+                    "player_name": "Ezekiel Elliott",
+                    "round_num": 12,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3117256,
+                    "player_name": "Dalton Schultz",
+                    "round_num": 12,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 2576925,
+                    "player_name": "Darren Waller",
+                    "round_num": 12,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3121422,
+                    "player_name": "Terry McLaurin",
+                    "round_num": 12,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": -16006,
+                    "player_name": "Cowboys D/ST",
+                    "round_num": 13,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4240021,
+                    "player_name": "Cam Akers",
+                    "round_num": 13,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3932905,
+                    "player_name": "Diontae Johnson",
+                    "round_num": 13,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4372016,
+                    "player_name": "Jaylen Waddle",
+                    "round_num": 13,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4047650,
+                    "player_name": "DK Metcalf",
+                    "round_num": 14,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4241372,
+                    "player_name": "Marquise Brown",
+                    "round_num": 14,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 16731,
+                    "player_name": "Brandin Cooks",
+                    "round_num": 14,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3121023,
+                    "player_name": "Dallas Goedert",
+                    "round_num": 14,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3135321,
+                    "player_name": "Hunter Renfrow",
+                    "round_num": 15,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3917315,
+                    "player_name": "Kyler Murray",
+                    "round_num": 15,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 3,
+                    "player_id": -16018,
+                    "player_name": "Saints D/ST",
+                    "round_num": 15,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": -16033,
+                    "player_name": "Ravens D/ST",
+                    "round_num": 15,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4035538,
+                    "player_name": "David Montgomery",
+                    "round_num": 16,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4360234,
+                    "player_name": "Evan McPherson",
+                    "round_num": 16,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3055899,
+                    "player_name": "Harrison Butker",
+                    "round_num": 16,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3116165,
+                    "player_name": "Chris Godwin",
+                    "round_num": 16,
+                    "round_pick": 4
+                }
+            ],
+            "standings": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "reg_season_num_weeks": 16
+        },
+        "2021": {
+            "teams": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "draft": [
+                {
+                    "team_id": 3,
+                    "player_id": 3117251,
+                    "player_name": "Christian McCaffrey",
+                    "round_num": 1,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 15847,
+                    "player_name": "Travis Kelce",
+                    "round_num": 1,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3139477,
+                    "player_name": "Patrick Mahomes",
+                    "round_num": 1,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3116593,
+                    "player_name": "Dalvin Cook",
+                    "round_num": 1,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3054850,
+                    "player_name": "Alvin Kamara",
+                    "round_num": 2,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3043078,
+                    "player_name": "Derrick Henry",
+                    "round_num": 2,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 16800,
+                    "player_name": "Davante Adams",
+                    "round_num": 2,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3116406,
+                    "player_name": "Tyreek Hill",
+                    "round_num": 2,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3051392,
+                    "player_name": "Ezekiel Elliott",
+                    "round_num": 3,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 2976212,
+                    "player_name": "Stefon Diggs",
+                    "round_num": 3,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4047650,
+                    "player_name": "DK Metcalf",
+                    "round_num": 3,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3917315,
+                    "player_name": "Kyler Murray",
+                    "round_num": 3,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3925357,
+                    "player_name": "Calvin Ridley",
+                    "round_num": 4,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4241457,
+                    "player_name": "Najee Harris",
+                    "round_num": 4,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3918298,
+                    "player_name": "Josh Allen",
+                    "round_num": 4,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3929630,
+                    "player_name": "Saquon Barkley",
+                    "round_num": 4,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 2576925,
+                    "player_name": "Darren Waller",
+                    "round_num": 5,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4242335,
+                    "player_name": "Jonathan Taylor",
+                    "round_num": 5,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 15795,
+                    "player_name": "DeAndre Hopkins",
+                    "round_num": 5,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3042519,
+                    "player_name": "Aaron Jones",
+                    "round_num": 5,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 15818,
+                    "player_name": "Keenan Allen",
+                    "round_num": 6,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3040151,
+                    "player_name": "George Kittle",
+                    "round_num": 6,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3068267,
+                    "player_name": "Austin Ekeler",
+                    "round_num": 6,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4262921,
+                    "player_name": "Justin Jefferson",
+                    "round_num": 6,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4047646,
+                    "player_name": "A.J. Brown",
+                    "round_num": 7,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3128720,
+                    "player_name": "Nick Chubb",
+                    "round_num": 7,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4360294,
+                    "player_name": "Antonio Gibson",
+                    "round_num": 7,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3116365,
+                    "player_name": "Mark Andrews",
+                    "round_num": 7,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 16799,
+                    "player_name": "Allen Robinson II",
+                    "round_num": 8,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 15683,
+                    "player_name": "Justin Tucker",
+                    "round_num": 8,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 2577417,
+                    "player_name": "Dak Prescott",
+                    "round_num": 8,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3116385,
+                    "player_name": "Joe Mixon",
+                    "round_num": 8,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3121422,
+                    "player_name": "Terry McLaurin",
+                    "round_num": 9,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": -16027,
+                    "player_name": "Buccaneers D/ST",
+                    "round_num": 9,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 1,
+                    "player_id": -16012,
+                    "player_name": "Chiefs D/ST",
+                    "round_num": 9,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": -16023,
+                    "player_name": "Steelers D/ST",
+                    "round_num": 9,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3055899,
+                    "player_name": "Harrison Butker",
+                    "round_num": 10,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 16460,
+                    "player_name": "Adam Thielen",
+                    "round_num": 10,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 15880,
+                    "player_name": "Robert Woods",
+                    "round_num": 10,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3916387,
+                    "player_name": "Lamar Jackson",
+                    "round_num": 10,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4360248,
+                    "player_name": "Kyle Pitts",
+                    "round_num": 11,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 16737,
+                    "player_name": "Mike Evans",
+                    "round_num": 11,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4052042,
+                    "player_name": "James Robinson",
+                    "round_num": 11,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 2330,
+                    "player_name": "Tom Brady",
+                    "round_num": 11,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 4035538,
+                    "player_name": "David Montgomery",
+                    "round_num": 12,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 8439,
+                    "player_name": "Aaron Rodgers",
+                    "round_num": 12,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4036133,
+                    "player_name": "T.J. Hockenson",
+                    "round_num": 12,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4242214,
+                    "player_name": "Clyde Edwards-Helaire",
+                    "round_num": 12,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4038941,
+                    "player_name": "Justin Herbert",
+                    "round_num": 13,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4259545,
+                    "player_name": "D'Andre Swift",
+                    "round_num": 13,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 2977187,
+                    "player_name": "Cooper Kupp",
+                    "round_num": 13,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 4241389,
+                    "player_name": "CeeDee Lamb",
+                    "round_num": 13,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 14881,
+                    "player_name": "Russell Wilson",
+                    "round_num": 14,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 2577327,
+                    "player_name": "Tyler Lockett",
+                    "round_num": 14,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4045163,
+                    "player_name": "Miles Sanders",
+                    "round_num": 14,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3919596,
+                    "player_name": "Chris Carson",
+                    "round_num": 14,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": -16033,
+                    "player_name": "Ravens D/ST",
+                    "round_num": 15,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 2473037,
+                    "player_name": "Jason Myers",
+                    "round_num": 15,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 2976499,
+                    "player_name": "Amari Cooper",
+                    "round_num": 15,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 13982,
+                    "player_name": "Julio Jones",
+                    "round_num": 15,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 4249087,
+                    "player_name": "Matt Gay",
+                    "round_num": 16,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 4047365,
+                    "player_name": "Josh Jacobs",
+                    "round_num": 16,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3119195,
+                    "player_name": "Chase Edmonds",
+                    "round_num": 16,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3124679,
+                    "player_name": "Jason Sanders",
+                    "round_num": 16,
+                    "round_pick": 4
+                }
+            ],
+            "standings": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "reg_season_num_weeks": 16
+        },
+        "2020": {
+            "teams": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "draft": [
+                {
+                    "team_id": 1,
+                    "player_id": 3054850,
+                    "player_name": "Alvin Kamara",
+                    "round_num": 1,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3117251,
+                    "player_name": "Christian McCaffrey",
+                    "round_num": 1,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3051392,
+                    "player_name": "Ezekiel Elliott",
+                    "round_num": 1,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 2976316,
+                    "player_name": "Michael Thomas",
+                    "round_num": 1,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 15847,
+                    "player_name": "Travis Kelce",
+                    "round_num": 2,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3116593,
+                    "player_name": "Dalvin Cook",
+                    "round_num": 2,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3929630,
+                    "player_name": "Saquon Barkley",
+                    "round_num": 2,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3139477,
+                    "player_name": "Patrick Mahomes",
+                    "round_num": 2,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3043078,
+                    "player_name": "Derrick Henry",
+                    "round_num": 3,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 16800,
+                    "player_name": "Davante Adams",
+                    "round_num": 3,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3916387,
+                    "player_name": "Lamar Jackson",
+                    "round_num": 3,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4242214,
+                    "player_name": "Clyde Edwards-Helaire",
+                    "round_num": 3,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3122840,
+                    "player_name": "Deshaun Watson",
+                    "round_num": 4,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 13982,
+                    "player_name": "Julio Jones",
+                    "round_num": 4,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3040151,
+                    "player_name": "George Kittle",
+                    "round_num": 4,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 16460,
+                    "player_name": "Adam Thielen",
+                    "round_num": 4,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 2974858,
+                    "player_name": "Kenny Golladay",
+                    "round_num": 5,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3116406,
+                    "player_name": "Tyreek Hill",
+                    "round_num": 5,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3116165,
+                    "player_name": "Chris Godwin",
+                    "round_num": 5,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3128720,
+                    "player_name": "Nick Chubb",
+                    "round_num": 5,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 16737,
+                    "player_name": "Mike Evans",
+                    "round_num": 6,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3042519,
+                    "player_name": "Aaron Jones",
+                    "round_num": 6,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 14881,
+                    "player_name": "Russell Wilson",
+                    "round_num": 6,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 15795,
+                    "player_name": "DeAndre Hopkins",
+                    "round_num": 6,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 15683,
+                    "player_name": "Justin Tucker",
+                    "round_num": 7,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4045163,
+                    "player_name": "Miles Sanders",
+                    "round_num": 7,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3917315,
+                    "player_name": "Kyler Murray",
+                    "round_num": 7,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3918298,
+                    "player_name": "Josh Allen",
+                    "round_num": 7,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3915416,
+                    "player_name": "DJ Moore",
+                    "round_num": 8,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 2977187,
+                    "player_name": "Cooper Kupp",
+                    "round_num": 8,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 2577417,
+                    "player_name": "Dak Prescott",
+                    "round_num": 8,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 13229,
+                    "player_name": "Rob Gronkowski",
+                    "round_num": 8,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 2580,
+                    "player_name": "Drew Brees",
+                    "round_num": 9,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 2979843,
+                    "player_name": "Kenyan Drake",
+                    "round_num": 9,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 2576925,
+                    "player_name": "Darren Waller",
+                    "round_num": 9,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 16799,
+                    "player_name": "Allen Robinson II",
+                    "round_num": 9,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 4047365,
+                    "player_name": "Josh Jacobs",
+                    "round_num": 10,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 4,
+                    "player_id": -16017,
+                    "player_name": "Patriots D/ST",
+                    "round_num": 10,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3120348,
+                    "player_name": "JuJu Smith-Schuster",
+                    "round_num": 10,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 3068267,
+                    "player_name": "Austin Ekeler",
+                    "round_num": 10,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 16733,
+                    "player_name": "Odell Beckham Jr.",
+                    "round_num": 11,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3116365,
+                    "player_name": "Mark Andrews",
+                    "round_num": 11,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3055899,
+                    "player_name": "Harrison Butker",
+                    "round_num": 11,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 2508176,
+                    "player_name": "David Johnson",
+                    "round_num": 11,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 15835,
+                    "player_name": "Zach Ertz",
+                    "round_num": 12,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3115364,
+                    "player_name": "Leonard Fournette",
+                    "round_num": 12,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 2985659,
+                    "player_name": "Wil Lutz",
+                    "round_num": 12,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 2977644,
+                    "player_name": "Todd Gurley II",
+                    "round_num": 12,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 2577327,
+                    "player_name": "Tyler Lockett",
+                    "round_num": 13,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": -16002,
+                    "player_name": "Bills D/ST",
+                    "round_num": 13,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 2573401,
+                    "player_name": "Tyler Higbee",
+                    "round_num": 13,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": -16023,
+                    "player_name": "Steelers D/ST",
+                    "round_num": 13,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 11122,
+                    "player_name": "Matt Prater",
+                    "round_num": 14,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 2330,
+                    "player_name": "Tom Brady",
+                    "round_num": 14,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 3116385,
+                    "player_name": "Joe Mixon",
+                    "round_num": 14,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": -16006,
+                    "player_name": "Cowboys D/ST",
+                    "round_num": 14,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 2976499,
+                    "player_name": "Amari Cooper",
+                    "round_num": 15,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 2,
+                    "player_id": 4047646,
+                    "player_name": "A.J. Brown",
+                    "round_num": 15,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3919596,
+                    "player_name": "Chris Carson",
+                    "round_num": 15,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 15880,
+                    "player_name": "Robert Woods",
+                    "round_num": 15,
+                    "round_pick": 4
+                },
+                {
+                    "team_id": 3,
+                    "player_id": 3051876,
+                    "player_name": "Evan Engram",
+                    "round_num": 16,
+                    "round_pick": 1
+                },
+                {
+                    "team_id": 4,
+                    "player_id": 3128429,
+                    "player_name": "Courtland Sutton",
+                    "round_num": 16,
+                    "round_pick": 2
+                },
+                {
+                    "team_id": 2,
+                    "player_id": -16033,
+                    "player_name": "Ravens D/ST",
+                    "round_num": 16,
+                    "round_pick": 3
+                },
+                {
+                    "team_id": 1,
+                    "player_id": 14924,
+                    "player_name": "T.Y. Hilton",
+                    "round_num": 16,
+                    "round_pick": 4
+                }
+            ],
+            "standings": [
+                2,
+                3,
+                1,
+                4
+            ],
+            "reg_season_num_weeks": 15
+        }
+    }
+}

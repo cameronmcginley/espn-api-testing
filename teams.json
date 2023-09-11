@@ -1,0 +1,1639 @@
+{
+  "55432112-1": {
+    "league_id": 55432112,
+    "team_id": 1,
+    "team_name": "Kansas Keepers",
+    "team_abbrev": "KK",
+    "owner": "Jared McGinley",
+    "years": {
+      "2020": {
+        "wins": 5,
+        "losses": 8,
+        "ties": 0,
+        "points_for": 1724.64,
+        "points_against": 1838.14,
+        "acquisitions": 12,
+        "trades": 0,
+        "drops": 12,
+        "standing": 4,
+        "draft_projected_rank": 0,
+        "playoff_pct": 0,
+        "roster": [
+          {
+            "player_id": 3054850,
+            "name": "Alvin Kamara",
+            "position": "RB",
+            "posRank": 1,
+            "proTeam": "NO"
+          },
+          {
+            "player_id": 3043078,
+            "name": "Derrick Henry",
+            "position": "RB",
+            "posRank": 3,
+            "proTeam": "TEN"
+          },
+          {
+            "player_id": 16460,
+            "name": "Adam Thielen",
+            "position": "WR",
+            "posRank": 10,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 15795,
+            "name": "DeAndre Hopkins",
+            "position": "WR",
+            "posRank": 4,
+            "proTeam": "ARI"
+          },
+          {
+            "player_id": 3068267,
+            "name": "Austin Ekeler",
+            "position": "RB",
+            "posRank": 26,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": 16733,
+            "name": "Odell Beckham Jr.",
+            "position": "WR",
+            "posRank": 91,
+            "proTeam": "CLE"
+          },
+          {
+            "player_id": 2977644,
+            "name": "Todd Gurley II",
+            "position": "RB",
+            "posRank": 29,
+            "proTeam": "ATL"
+          },
+          {
+            "player_id": 2577327,
+            "name": "Tyler Lockett",
+            "position": "WR",
+            "posRank": 8,
+            "proTeam": "SEA"
+          },
+          {
+            "player_id": 2976499,
+            "name": "Amari Cooper",
+            "position": "WR",
+            "posRank": 15,
+            "proTeam": "DAL"
+          },
+          {
+            "player_id": 14924,
+            "name": "T.Y. Hilton",
+            "position": "WR",
+            "posRank": 42,
+            "proTeam": "IND"
+          },
+          {
+            "player_id": 4360294,
+            "name": "Antonio Gibson",
+            "position": "RB",
+            "posRank": 13,
+            "proTeam": "WSH"
+          },
+          {
+            "player_id": 11122,
+            "name": "Matt Prater",
+            "position": "K",
+            "posRank": 22,
+            "proTeam": "DET"
+          },
+          {
+            "player_id": 16732,
+            "name": "Eric Ebron",
+            "position": "TE",
+            "posRank": 14,
+            "proTeam": "PIT"
+          },
+          {
+            "player_id": -16012,
+            "name": "Chiefs D/ST",
+            "position": "D/ST",
+            "posRank": 15,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 2330,
+            "name": "Tom Brady",
+            "position": "QB",
+            "posRank": 8,
+            "proTeam": "TB"
+          },
+          {
+            "player_id": 4048244,
+            "name": "Alexander Mattison",
+            "position": "RB",
+            "posRank": 55,
+            "proTeam": "MIN"
+          }
+        ]
+      },
+      "2021": {
+        "wins": 5,
+        "losses": 9,
+        "ties": 0,
+        "points_for": 1882.74,
+        "points_against": 2030.64,
+        "acquisitions": 33,
+        "trades": 3,
+        "drops": 33,
+        "standing": 4,
+        "draft_projected_rank": 4,
+        "playoff_pct": 100.0,
+        "roster": [
+          {
+            "player_id": 3139477,
+            "name": "Patrick Mahomes",
+            "position": "QB",
+            "posRank": 4,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 4047650,
+            "name": "DK Metcalf",
+            "position": "WR",
+            "posRank": 14,
+            "proTeam": "SEA"
+          },
+          {
+            "player_id": 15683,
+            "name": "Justin Tucker",
+            "position": "K",
+            "posRank": 3,
+            "proTeam": "BAL"
+          },
+          {
+            "player_id": 4052042,
+            "name": "James Robinson",
+            "position": "RB",
+            "posRank": 24,
+            "proTeam": "JAX"
+          },
+          {
+            "player_id": 3929630,
+            "name": "Saquon Barkley",
+            "position": "RB",
+            "posRank": 30,
+            "proTeam": "NYG"
+          },
+          {
+            "player_id": 4262921,
+            "name": "Justin Jefferson",
+            "position": "WR",
+            "posRank": 4,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 13229,
+            "name": "Rob Gronkowski",
+            "position": "TE",
+            "posRank": 7,
+            "proTeam": "TB"
+          },
+          {
+            "player_id": 3051392,
+            "name": "Ezekiel Elliott",
+            "position": "RB",
+            "posRank": 7,
+            "proTeam": "DAL"
+          },
+          {
+            "player_id": 3115364,
+            "name": "Leonard Fournette",
+            "position": "RB",
+            "posRank": 6,
+            "proTeam": "TB"
+          },
+          {
+            "player_id": 4362628,
+            "name": "Ja'Marr Chase",
+            "position": "WR",
+            "posRank": 5,
+            "proTeam": "CIN"
+          },
+          {
+            "player_id": 15818,
+            "name": "Keenan Allen",
+            "position": "WR",
+            "posRank": 11,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": 3045147,
+            "name": "James Conner",
+            "position": "RB",
+            "posRank": 5,
+            "proTeam": "ARI"
+          },
+          {
+            "player_id": 4048244,
+            "name": "Alexander Mattison",
+            "position": "RB",
+            "posRank": 39,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 3045138,
+            "name": "Mike Williams",
+            "position": "WR",
+            "posRank": 12,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": -16006,
+            "name": "Cowboys D/ST",
+            "position": "D/ST",
+            "posRank": 1,
+            "proTeam": "DAL"
+          },
+          {
+            "player_id": 3128721,
+            "name": "Sony Michel",
+            "position": "RB",
+            "posRank": 32,
+            "proTeam": "LAR"
+          }
+        ]
+      },
+      "2022": {
+        "wins": 7,
+        "losses": 8,
+        "ties": 0,
+        "points_for": 2011.94,
+        "points_against": 2108.56,
+        "acquisitions": 23,
+        "trades": 5,
+        "drops": 28,
+        "standing": 2,
+        "draft_projected_rank": 3,
+        "playoff_pct": 100.0,
+        "roster": [
+          {
+            "player_id": 4262921,
+            "name": "Justin Jefferson",
+            "position": "WR",
+            "posRank": 1,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 3139477,
+            "name": "Patrick Mahomes",
+            "position": "QB",
+            "posRank": 1,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 15683,
+            "name": "Justin Tucker",
+            "position": "K",
+            "posRank": 3,
+            "proTeam": "BAL"
+          },
+          {
+            "player_id": 3128720,
+            "name": "Nick Chubb",
+            "position": "RB",
+            "posRank": 6,
+            "proTeam": "CLE"
+          },
+          {
+            "player_id": 4047650,
+            "name": "DK Metcalf",
+            "position": "WR",
+            "posRank": 16,
+            "proTeam": "SEA"
+          },
+          {
+            "player_id": 2577327,
+            "name": "Tyler Lockett",
+            "position": "WR",
+            "posRank": 13,
+            "proTeam": "SEA"
+          },
+          {
+            "player_id": 4047646,
+            "name": "A.J. Brown",
+            "position": "WR",
+            "posRank": 6,
+            "proTeam": "PHI"
+          },
+          {
+            "player_id": 4241389,
+            "name": "CeeDee Lamb",
+            "position": "WR",
+            "posRank": 5,
+            "proTeam": "DAL"
+          },
+          {
+            "player_id": 3895856,
+            "name": "Christian Kirk",
+            "position": "WR",
+            "posRank": 12,
+            "proTeam": "JAX"
+          },
+          {
+            "player_id": 3117256,
+            "name": "Dalton Schultz",
+            "position": "TE",
+            "posRank": 10,
+            "proTeam": "HOU"
+          },
+          {
+            "player_id": 3916148,
+            "name": "Tony Pollard",
+            "position": "RB",
+            "posRank": 8,
+            "proTeam": "DAL"
+          },
+          {
+            "player_id": 3929630,
+            "name": "Saquon Barkley",
+            "position": "RB",
+            "posRank": 5,
+            "proTeam": "NYG"
+          },
+          {
+            "player_id": -16019,
+            "name": "Giants D/ST",
+            "position": "D/ST",
+            "posRank": 25,
+            "proTeam": "NYG"
+          },
+          {
+            "player_id": 4045163,
+            "name": "Miles Sanders",
+            "position": "RB",
+            "posRank": 15,
+            "proTeam": "CAR"
+          }
+        ]
+      },
+      "2023": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "acquisitions": 0,
+        "trades": 0,
+        "drops": 0,
+        "standing": 0,
+        "draft_projected_rank": 0,
+        "playoff_pct": 0,
+        "roster": []
+      }
+    }
+  },
+  "55432112-2": {
+    "league_id": 55432112,
+    "team_id": 2,
+    "team_name": "Wichita Wienerschnitzel",
+    "team_abbrev": "WNR",
+    "owner": "Cameron McGinley",
+    "years": {
+      "2020": {
+        "wins": 6,
+        "losses": 7,
+        "ties": 0,
+        "points_for": 1876.74,
+        "points_against": 1866.8,
+        "acquisitions": 20,
+        "trades": 0,
+        "drops": 20,
+        "standing": 3,
+        "draft_projected_rank": 0,
+        "playoff_pct": 0,
+        "roster": [
+          {
+            "player_id": 3117251,
+            "name": "Christian McCaffrey",
+            "position": "RB",
+            "posRank": 54,
+            "proTeam": "CAR"
+          },
+          {
+            "player_id": 16800,
+            "name": "Davante Adams",
+            "position": "WR",
+            "posRank": 1,
+            "proTeam": "GB"
+          },
+          {
+            "player_id": 3040151,
+            "name": "George Kittle",
+            "position": "TE",
+            "posRank": 19,
+            "proTeam": "SF"
+          },
+          {
+            "player_id": 3116406,
+            "name": "Tyreek Hill",
+            "position": "WR",
+            "posRank": 2,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 14881,
+            "name": "Russell Wilson",
+            "position": "QB",
+            "posRank": 6,
+            "proTeam": "SEA"
+          },
+          {
+            "player_id": 3120348,
+            "name": "JuJu Smith-Schuster",
+            "position": "WR",
+            "posRank": 16,
+            "proTeam": "PIT"
+          },
+          {
+            "player_id": 3925357,
+            "name": "Calvin Ridley",
+            "position": "WR",
+            "posRank": 5,
+            "proTeam": "ATL"
+          },
+          {
+            "player_id": 8439,
+            "name": "Aaron Rodgers",
+            "position": "QB",
+            "posRank": 2,
+            "proTeam": "GB"
+          },
+          {
+            "player_id": 16799,
+            "name": "Allen Robinson II",
+            "position": "WR",
+            "posRank": 9,
+            "proTeam": "CHI"
+          },
+          {
+            "player_id": 4035538,
+            "name": "David Montgomery",
+            "position": "RB",
+            "posRank": 4,
+            "proTeam": "CHI"
+          },
+          {
+            "player_id": 4036133,
+            "name": "T.J. Hockenson",
+            "position": "TE",
+            "posRank": 5,
+            "proTeam": "DET"
+          },
+          {
+            "player_id": -16018,
+            "name": "Saints D/ST",
+            "position": "D/ST",
+            "posRank": 6,
+            "proTeam": "NO"
+          },
+          {
+            "player_id": 2979843,
+            "name": "Kenyan Drake",
+            "position": "RB",
+            "posRank": 16,
+            "proTeam": "ARI"
+          },
+          {
+            "player_id": 4242335,
+            "name": "Jonathan Taylor",
+            "position": "RB",
+            "posRank": 6,
+            "proTeam": "IND"
+          },
+          {
+            "player_id": 3124679,
+            "name": "Jason Sanders",
+            "position": "K",
+            "posRank": 1,
+            "proTeam": "MIA"
+          },
+          {
+            "player_id": -16011,
+            "name": "Colts D/ST",
+            "position": "D/ST",
+            "posRank": 3,
+            "proTeam": "IND"
+          }
+        ]
+      },
+      "2021": {
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "points_for": 2099.3,
+        "points_against": 1882.64,
+        "acquisitions": 11,
+        "trades": 3,
+        "drops": 12,
+        "standing": 1,
+        "draft_projected_rank": 1,
+        "playoff_pct": 100.0,
+        "roster": [
+          {
+            "player_id": 2976212,
+            "name": "Stefon Diggs",
+            "position": "WR",
+            "posRank": 7,
+            "proTeam": "BUF"
+          },
+          {
+            "player_id": 3918298,
+            "name": "Josh Allen",
+            "position": "QB",
+            "posRank": 1,
+            "proTeam": "BUF"
+          },
+          {
+            "player_id": 3068267,
+            "name": "Austin Ekeler",
+            "position": "RB",
+            "posRank": 2,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": 3128720,
+            "name": "Nick Chubb",
+            "position": "RB",
+            "posRank": 13,
+            "proTeam": "CLE"
+          },
+          {
+            "player_id": 2577417,
+            "name": "Dak Prescott",
+            "position": "QB",
+            "posRank": 7,
+            "proTeam": "DAL"
+          },
+          {
+            "player_id": 16737,
+            "name": "Mike Evans",
+            "position": "WR",
+            "posRank": 9,
+            "proTeam": "TB"
+          },
+          {
+            "player_id": 4259545,
+            "name": "D'Andre Swift",
+            "position": "RB",
+            "posRank": 15,
+            "proTeam": "DET"
+          },
+          {
+            "player_id": 2576925,
+            "name": "Darren Waller",
+            "position": "TE",
+            "posRank": 17,
+            "proTeam": "OAK"
+          },
+          {
+            "player_id": 4241372,
+            "name": "Marquise Brown",
+            "position": "WR",
+            "posRank": 22,
+            "proTeam": "BAL"
+          },
+          {
+            "player_id": 10621,
+            "name": "Nick Folk",
+            "position": "K",
+            "posRank": 2,
+            "proTeam": "NE"
+          },
+          {
+            "player_id": -16017,
+            "name": "Patriots D/ST",
+            "position": "D/ST",
+            "posRank": 3,
+            "proTeam": "NE"
+          },
+          {
+            "player_id": 3126486,
+            "name": "Deebo Samuel",
+            "position": "WR",
+            "posRank": 3,
+            "proTeam": "SF"
+          },
+          {
+            "player_id": 3040151,
+            "name": "George Kittle",
+            "position": "TE",
+            "posRank": 4,
+            "proTeam": "SF"
+          },
+          {
+            "player_id": 3054850,
+            "name": "Alvin Kamara",
+            "position": "RB",
+            "posRank": 8,
+            "proTeam": "NO"
+          },
+          {
+            "player_id": 4241457,
+            "name": "Najee Harris",
+            "position": "RB",
+            "posRank": 3,
+            "proTeam": "PIT"
+          },
+          {
+            "player_id": 3055899,
+            "name": "Harrison Butker",
+            "position": "K",
+            "posRank": 12,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": -16027,
+            "name": "Buccaneers D/ST",
+            "position": "D/ST",
+            "posRank": 6,
+            "proTeam": "TB"
+          }
+        ]
+      },
+      "2022": {
+        "wins": 12,
+        "losses": 3,
+        "ties": 0,
+        "points_for": 2233.84,
+        "points_against": 1949.24,
+        "acquisitions": 15,
+        "trades": 3,
+        "drops": 15,
+        "standing": 1,
+        "draft_projected_rank": 1,
+        "playoff_pct": 100.0,
+        "roster": [
+          {
+            "player_id": 2977187,
+            "name": "Cooper Kupp",
+            "position": "WR",
+            "posRank": 23,
+            "proTeam": "LAR"
+          },
+          {
+            "player_id": 4362628,
+            "name": "Ja'Marr Chase",
+            "position": "WR",
+            "posRank": 11,
+            "proTeam": "CIN"
+          },
+          {
+            "player_id": 15847,
+            "name": "Travis Kelce",
+            "position": "TE",
+            "posRank": 1,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 3918298,
+            "name": "Josh Allen",
+            "position": "QB",
+            "posRank": 2,
+            "proTeam": "BUF"
+          },
+          {
+            "player_id": 3116593,
+            "name": "Dalvin Cook",
+            "position": "RB",
+            "posRank": 11,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 3115364,
+            "name": "Leonard Fournette",
+            "position": "RB",
+            "posRank": 12,
+            "proTeam": "None"
+          },
+          {
+            "player_id": 3042519,
+            "name": "Aaron Jones",
+            "position": "RB",
+            "posRank": 9,
+            "proTeam": "GB"
+          },
+          {
+            "player_id": -16002,
+            "name": "Bills D/ST",
+            "position": "D/ST",
+            "posRank": 5,
+            "proTeam": "BUF"
+          },
+          {
+            "player_id": 3051909,
+            "name": "Daniel Carlson",
+            "position": "K",
+            "posRank": 1,
+            "proTeam": "OAK"
+          },
+          {
+            "player_id": 15818,
+            "name": "Keenan Allen",
+            "position": "WR",
+            "posRank": 42,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": 3068267,
+            "name": "Austin Ekeler",
+            "position": "RB",
+            "posRank": 1,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": 4036133,
+            "name": "T.J. Hockenson",
+            "position": "TE",
+            "posRank": 2,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 3054850,
+            "name": "Alvin Kamara",
+            "position": "RB",
+            "posRank": 16,
+            "proTeam": "NO"
+          },
+          {
+            "player_id": 4035687,
+            "name": "Michael Pittman Jr.",
+            "position": "WR",
+            "posRank": 20,
+            "proTeam": "IND"
+          },
+          {
+            "player_id": 4241478,
+            "name": "DeVonta Smith",
+            "position": "WR",
+            "posRank": 9,
+            "proTeam": "PHI"
+          },
+          {
+            "player_id": -16012,
+            "name": "Chiefs D/ST",
+            "position": "D/ST",
+            "posRank": 9,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 3055899,
+            "name": "Harrison Butker",
+            "position": "K",
+            "posRank": 28,
+            "proTeam": "KC"
+          }
+        ]
+      },
+      "2023": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "acquisitions": 0,
+        "trades": 0,
+        "drops": 0,
+        "standing": 0,
+        "draft_projected_rank": 0,
+        "playoff_pct": 0,
+        "roster": []
+      }
+    }
+  },
+  "55432112-3": {
+    "league_id": 55432112,
+    "team_id": 3,
+    "team_name": "Maple Dunes Milkmen",
+    "team_abbrev": "MDM",
+    "owner": "Noah McGinley",
+    "years": {
+      "2020": {
+        "wins": 8,
+        "losses": 5,
+        "ties": 0,
+        "points_for": 1745.5,
+        "points_against": 1706.26,
+        "acquisitions": 42,
+        "trades": 0,
+        "drops": 42,
+        "standing": 1,
+        "draft_projected_rank": 0,
+        "playoff_pct": 0,
+        "roster": [
+          {
+            "player_id": 2976316,
+            "name": "Michael Thomas",
+            "position": "WR",
+            "posRank": 95,
+            "proTeam": "NO"
+          },
+          {
+            "player_id": 15847,
+            "name": "Travis Kelce",
+            "position": "TE",
+            "posRank": 1,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 3128720,
+            "name": "Nick Chubb",
+            "position": "RB",
+            "posRank": 11,
+            "proTeam": "CLE"
+          },
+          {
+            "player_id": 3918298,
+            "name": "Josh Allen",
+            "position": "QB",
+            "posRank": 1,
+            "proTeam": "BUF"
+          },
+          {
+            "player_id": 4047365,
+            "name": "Josh Jacobs",
+            "position": "RB",
+            "posRank": 8,
+            "proTeam": "OAK"
+          },
+          {
+            "player_id": 3025433,
+            "name": "Mike Davis",
+            "position": "RB",
+            "posRank": 12,
+            "proTeam": "CAR"
+          },
+          {
+            "player_id": 2976212,
+            "name": "Stefon Diggs",
+            "position": "WR",
+            "posRank": 3,
+            "proTeam": "BUF"
+          },
+          {
+            "player_id": 4038941,
+            "name": "Justin Herbert",
+            "position": "QB",
+            "posRank": 9,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": 3049899,
+            "name": "Younghoe Koo",
+            "position": "K",
+            "posRank": 2,
+            "proTeam": "ATL"
+          },
+          {
+            "player_id": -16033,
+            "name": "Ravens D/ST",
+            "position": "D/ST",
+            "posRank": 5,
+            "proTeam": "BAL"
+          },
+          {
+            "player_id": 3886818,
+            "name": "Myles Gaskin",
+            "position": "RB",
+            "posRank": 28,
+            "proTeam": "MIA"
+          },
+          {
+            "player_id": 4262921,
+            "name": "Justin Jefferson",
+            "position": "WR",
+            "posRank": 6,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 15818,
+            "name": "Keenan Allen",
+            "position": "WR",
+            "posRank": 14,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": 16813,
+            "name": "Logan Thomas",
+            "position": "TE",
+            "posRank": 3,
+            "proTeam": "WSH"
+          },
+          {
+            "player_id": 16737,
+            "name": "Mike Evans",
+            "position": "WR",
+            "posRank": 11,
+            "proTeam": "TB"
+          },
+          {
+            "player_id": 3122976,
+            "name": "Jeff Wilson Jr.",
+            "position": "RB",
+            "posRank": 32,
+            "proTeam": "SF"
+          }
+        ]
+      },
+      "2021": {
+        "wins": 8,
+        "losses": 6,
+        "ties": 0,
+        "points_for": 2058.04,
+        "points_against": 2028.24,
+        "acquisitions": 69,
+        "trades": 12,
+        "drops": 58,
+        "standing": 2,
+        "draft_projected_rank": 2,
+        "playoff_pct": 100.0,
+        "roster": [
+          {
+            "player_id": 3116406,
+            "name": "Tyreek Hill",
+            "position": "WR",
+            "posRank": 6,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 3916387,
+            "name": "Lamar Jackson",
+            "position": "QB",
+            "posRank": 16,
+            "proTeam": "BAL"
+          },
+          {
+            "player_id": 15847,
+            "name": "Travis Kelce",
+            "position": "TE",
+            "posRank": 2,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 16800,
+            "name": "Davante Adams",
+            "position": "WR",
+            "posRank": 2,
+            "proTeam": "GB"
+          },
+          {
+            "player_id": -16002,
+            "name": "Bills D/ST",
+            "position": "D/ST",
+            "posRank": 2,
+            "proTeam": "BUF"
+          },
+          {
+            "player_id": 3116385,
+            "name": "Joe Mixon",
+            "position": "RB",
+            "posRank": 4,
+            "proTeam": "CIN"
+          },
+          {
+            "player_id": 3917315,
+            "name": "Kyler Murray",
+            "position": "QB",
+            "posRank": 10,
+            "proTeam": "ARI"
+          },
+          {
+            "player_id": 4242335,
+            "name": "Jonathan Taylor",
+            "position": "RB",
+            "posRank": 1,
+            "proTeam": "IND"
+          },
+          {
+            "player_id": 2977187,
+            "name": "Cooper Kupp",
+            "position": "WR",
+            "posRank": 1,
+            "proTeam": "LAR"
+          },
+          {
+            "player_id": 3116593,
+            "name": "Dalvin Cook",
+            "position": "RB",
+            "posRank": 16,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 15807,
+            "name": "Cordarrelle Patterson",
+            "position": "RB",
+            "posRank": 9,
+            "proTeam": "ATL"
+          },
+          {
+            "player_id": 4249087,
+            "name": "Matt Gay",
+            "position": "K",
+            "posRank": 5,
+            "proTeam": "LAR"
+          },
+          {
+            "player_id": 3043078,
+            "name": "Derrick Henry",
+            "position": "RB",
+            "posRank": 22,
+            "proTeam": "TEN"
+          },
+          {
+            "player_id": 8439,
+            "name": "Aaron Rodgers",
+            "position": "QB",
+            "posRank": 5,
+            "proTeam": "GB"
+          },
+          {
+            "player_id": -16018,
+            "name": "Saints D/ST",
+            "position": "D/ST",
+            "posRank": 5,
+            "proTeam": "NO"
+          },
+          {
+            "player_id": 4374302,
+            "name": "Amon-Ra St. Brown",
+            "position": "WR",
+            "posRank": 21,
+            "proTeam": "DET"
+          },
+          {
+            "player_id": -16011,
+            "name": "Colts D/ST",
+            "position": "D/ST",
+            "posRank": 8,
+            "proTeam": "IND"
+          }
+        ]
+      },
+      "2022": {
+        "wins": 5,
+        "losses": 10,
+        "ties": 0,
+        "points_for": 2092.16,
+        "points_against": 2147.98,
+        "acquisitions": 81,
+        "trades": 15,
+        "drops": 65,
+        "standing": 4,
+        "draft_projected_rank": 2,
+        "playoff_pct": 0.0,
+        "roster": [
+          {
+            "player_id": 3117251,
+            "name": "Christian McCaffrey",
+            "position": "RB",
+            "posRank": 2,
+            "proTeam": "SF"
+          },
+          {
+            "player_id": 2976212,
+            "name": "Stefon Diggs",
+            "position": "WR",
+            "posRank": 4,
+            "proTeam": "BUF"
+          },
+          {
+            "player_id": 4040715,
+            "name": "Jalen Hurts",
+            "position": "QB",
+            "posRank": 3,
+            "proTeam": "PHI"
+          },
+          {
+            "player_id": 3116365,
+            "name": "Mark Andrews",
+            "position": "TE",
+            "posRank": 4,
+            "proTeam": "BAL"
+          },
+          {
+            "player_id": 16800,
+            "name": "Davante Adams",
+            "position": "WR",
+            "posRank": 3,
+            "proTeam": "OAK"
+          },
+          {
+            "player_id": 4374302,
+            "name": "Amon-Ra St. Brown",
+            "position": "WR",
+            "posRank": 7,
+            "proTeam": "DET"
+          },
+          {
+            "player_id": 3116406,
+            "name": "Tyreek Hill",
+            "position": "WR",
+            "posRank": 2,
+            "proTeam": "MIA"
+          },
+          {
+            "player_id": 4569618,
+            "name": "Garrett Wilson",
+            "position": "WR",
+            "posRank": 21,
+            "proTeam": "NYJ"
+          },
+          {
+            "player_id": 4047365,
+            "name": "Josh Jacobs",
+            "position": "RB",
+            "posRank": 3,
+            "proTeam": "OAK"
+          },
+          {
+            "player_id": 3043078,
+            "name": "Derrick Henry",
+            "position": "RB",
+            "posRank": 4,
+            "proTeam": "TEN"
+          },
+          {
+            "player_id": 3051392,
+            "name": "Ezekiel Elliott",
+            "position": "RB",
+            "posRank": 22,
+            "proTeam": "None"
+          },
+          {
+            "player_id": 4362887,
+            "name": "Justin Fields",
+            "position": "QB",
+            "posRank": 6,
+            "proTeam": "CHI"
+          },
+          {
+            "player_id": -16025,
+            "name": "49ers D/ST",
+            "position": "D/ST",
+            "posRank": 3,
+            "proTeam": "SF"
+          },
+          {
+            "player_id": 16486,
+            "name": "Brett Maher",
+            "position": "K",
+            "posRank": 1,
+            "proTeam": "DAL"
+          },
+          {
+            "player_id": 3051876,
+            "name": "Evan Engram",
+            "position": "TE",
+            "posRank": 5,
+            "proTeam": "JAX"
+          },
+          {
+            "player_id": -16006,
+            "name": "Cowboys D/ST",
+            "position": "D/ST",
+            "posRank": 4,
+            "proTeam": "DAL"
+          },
+          {
+            "player_id": -16033,
+            "name": "Ravens D/ST",
+            "position": "D/ST",
+            "posRank": 6,
+            "proTeam": "BAL"
+          }
+        ]
+      },
+      "2023": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "acquisitions": 0,
+        "trades": 0,
+        "drops": 0,
+        "standing": 0,
+        "draft_projected_rank": 0,
+        "playoff_pct": 0,
+        "roster": []
+      }
+    }
+  },
+  "55432112-4": {
+    "league_id": 55432112,
+    "team_id": 4,
+    "team_name": "Wichita Wittybittys",
+    "team_abbrev": "WWB",
+    "owner": "Justin McGinley",
+    "years": {
+      "2020": {
+        "wins": 7,
+        "losses": 6,
+        "ties": 0,
+        "points_for": 1868.82,
+        "points_against": 1804.5,
+        "acquisitions": 25,
+        "trades": 0,
+        "drops": 25,
+        "standing": 2,
+        "draft_projected_rank": 0,
+        "playoff_pct": 0,
+        "roster": [
+          {
+            "player_id": 3916387,
+            "name": "Lamar Jackson",
+            "position": "QB",
+            "posRank": 10,
+            "proTeam": "BAL"
+          },
+          {
+            "player_id": 13982,
+            "name": "Julio Jones",
+            "position": "WR",
+            "posRank": 52,
+            "proTeam": "ATL"
+          },
+          {
+            "player_id": 3042519,
+            "name": "Aaron Jones",
+            "position": "RB",
+            "posRank": 5,
+            "proTeam": "GB"
+          },
+          {
+            "player_id": 3917315,
+            "name": "Kyler Murray",
+            "position": "QB",
+            "posRank": 3,
+            "proTeam": "ARI"
+          },
+          {
+            "player_id": 2576925,
+            "name": "Darren Waller",
+            "position": "TE",
+            "posRank": 2,
+            "proTeam": "OAK"
+          },
+          {
+            "player_id": 3055899,
+            "name": "Harrison Butker",
+            "position": "K",
+            "posRank": 11,
+            "proTeam": "KC"
+          },
+          {
+            "player_id": 3919596,
+            "name": "Chris Carson",
+            "position": "RB",
+            "posRank": 19,
+            "proTeam": "SEA"
+          },
+          {
+            "player_id": 4047650,
+            "name": "DK Metcalf",
+            "position": "WR",
+            "posRank": 7,
+            "proTeam": "SEA"
+          },
+          {
+            "player_id": 3121422,
+            "name": "Terry McLaurin",
+            "position": "WR",
+            "posRank": 20,
+            "proTeam": "WSH"
+          },
+          {
+            "player_id": -16028,
+            "name": "Washington D/ST",
+            "position": "D/ST",
+            "posRank": 4,
+            "proTeam": "WSH"
+          },
+          {
+            "player_id": 3932905,
+            "name": "Diontae Johnson",
+            "position": "WR",
+            "posRank": 21,
+            "proTeam": "PIT"
+          },
+          {
+            "player_id": 4259545,
+            "name": "D'Andre Swift",
+            "position": "RB",
+            "posRank": 18,
+            "proTeam": "DET"
+          },
+          {
+            "player_id": 16731,
+            "name": "Brandin Cooks",
+            "position": "WR",
+            "posRank": 17,
+            "proTeam": "HOU"
+          },
+          {
+            "player_id": 3915416,
+            "name": "DJ Moore",
+            "position": "WR",
+            "posRank": 25,
+            "proTeam": "CAR"
+          },
+          {
+            "player_id": 4047646,
+            "name": "A.J. Brown",
+            "position": "WR",
+            "posRank": 12,
+            "proTeam": "TEN"
+          },
+          {
+            "player_id": 3116593,
+            "name": "Dalvin Cook",
+            "position": "RB",
+            "posRank": 2,
+            "proTeam": "MIN"
+          }
+        ]
+      },
+      "2021": {
+        "wins": 7,
+        "losses": 7,
+        "ties": 0,
+        "points_for": 1767.96,
+        "points_against": 1866.52,
+        "acquisitions": 23,
+        "trades": 6,
+        "drops": 26,
+        "standing": 3,
+        "draft_projected_rank": 3,
+        "playoff_pct": 100.0,
+        "roster": [
+          {
+            "player_id": 3042519,
+            "name": "Aaron Jones",
+            "position": "RB",
+            "posRank": 11,
+            "proTeam": "GB"
+          },
+          {
+            "player_id": 3116365,
+            "name": "Mark Andrews",
+            "position": "TE",
+            "posRank": 1,
+            "proTeam": "BAL"
+          },
+          {
+            "player_id": 2330,
+            "name": "Tom Brady",
+            "position": "QB",
+            "posRank": 3,
+            "proTeam": "TB"
+          },
+          {
+            "player_id": 4241389,
+            "name": "CeeDee Lamb",
+            "position": "WR",
+            "posRank": 19,
+            "proTeam": "DAL"
+          },
+          {
+            "player_id": 4038941,
+            "name": "Justin Herbert",
+            "position": "QB",
+            "posRank": 2,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": 3975763,
+            "name": "Greg Joseph",
+            "position": "K",
+            "posRank": 6,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 16460,
+            "name": "Adam Thielen",
+            "position": "WR",
+            "posRank": 28,
+            "proTeam": "MIN"
+          },
+          {
+            "player_id": 3116165,
+            "name": "Chris Godwin",
+            "position": "WR",
+            "posRank": 15,
+            "proTeam": "TB"
+          },
+          {
+            "player_id": 4239934,
+            "name": "AJ Dillon",
+            "position": "RB",
+            "posRank": 23,
+            "proTeam": "GB"
+          },
+          {
+            "player_id": 3059915,
+            "name": "Kareem Hunt",
+            "position": "RB",
+            "posRank": 49,
+            "proTeam": "CLE"
+          },
+          {
+            "player_id": 3932905,
+            "name": "Diontae Johnson",
+            "position": "WR",
+            "posRank": 8,
+            "proTeam": "PIT"
+          },
+          {
+            "player_id": 2980453,
+            "name": "Jamaal Williams",
+            "position": "RB",
+            "posRank": 43,
+            "proTeam": "DET"
+          },
+          {
+            "player_id": 4361579,
+            "name": "Javonte Williams",
+            "position": "RB",
+            "posRank": 17,
+            "proTeam": "DEN"
+          },
+          {
+            "player_id": 4047365,
+            "name": "Josh Jacobs",
+            "position": "RB",
+            "posRank": 12,
+            "proTeam": "OAK"
+          },
+          {
+            "player_id": 4035538,
+            "name": "David Montgomery",
+            "position": "RB",
+            "posRank": 21,
+            "proTeam": "CHI"
+          },
+          {
+            "player_id": -16015,
+            "name": "Dolphins D/ST",
+            "position": "D/ST",
+            "posRank": 4,
+            "proTeam": "MIA"
+          },
+          {
+            "player_id": 4372016,
+            "name": "Jaylen Waddle",
+            "position": "WR",
+            "posRank": 13,
+            "proTeam": "MIA"
+          }
+        ]
+      },
+      "2022": {
+        "wins": 6,
+        "losses": 9,
+        "ties": 0,
+        "points_for": 1934.14,
+        "points_against": 2066.3,
+        "acquisitions": 44,
+        "trades": 7,
+        "drops": 52,
+        "standing": 3,
+        "draft_projected_rank": 4,
+        "playoff_pct": 0.0,
+        "roster": [
+          {
+            "player_id": 3045138,
+            "name": "Mike Williams",
+            "position": "WR",
+            "posRank": 32,
+            "proTeam": "LAC"
+          },
+          {
+            "player_id": 3116385,
+            "name": "Joe Mixon",
+            "position": "RB",
+            "posRank": 10,
+            "proTeam": "CIN"
+          },
+          {
+            "player_id": 3116165,
+            "name": "Chris Godwin",
+            "position": "WR",
+            "posRank": 18,
+            "proTeam": "TB"
+          },
+          {
+            "player_id": 2976499,
+            "name": "Amari Cooper",
+            "position": "WR",
+            "posRank": 10,
+            "proTeam": "CLE"
+          },
+          {
+            "player_id": 3121422,
+            "name": "Terry McLaurin",
+            "position": "WR",
+            "posRank": 14,
+            "proTeam": "WSH"
+          },
+          {
+            "player_id": 4372016,
+            "name": "Jaylen Waddle",
+            "position": "WR",
+            "posRank": 8,
+            "proTeam": "MIA"
+          },
+          {
+            "player_id": 3045147,
+            "name": "James Conner",
+            "position": "RB",
+            "posRank": 19,
+            "proTeam": "ARI"
+          },
+          {
+            "player_id": 4569173,
+            "name": "Rhamondre Stevenson",
+            "position": "RB",
+            "posRank": 7,
+            "proTeam": "NE"
+          },
+          {
+            "player_id": 3915511,
+            "name": "Joe Burrow",
+            "position": "QB",
+            "posRank": 4,
+            "proTeam": "CIN"
+          },
+          {
+            "player_id": 15795,
+            "name": "DeAndre Hopkins",
+            "position": "WR",
+            "posRank": 47,
+            "proTeam": "ARI"
+          },
+          {
+            "player_id": 4239993,
+            "name": "Tee Higgins",
+            "position": "WR",
+            "posRank": 19,
+            "proTeam": "CIN"
+          },
+          {
+            "player_id": 4239996,
+            "name": "Travis Etienne Jr.",
+            "position": "RB",
+            "posRank": 17,
+            "proTeam": "JAX"
+          },
+          {
+            "player_id": 4567048,
+            "name": "Kenneth Walker III",
+            "position": "RB",
+            "posRank": 18,
+            "proTeam": "SEA"
+          },
+          {
+            "player_id": 3040151,
+            "name": "George Kittle",
+            "position": "TE",
+            "posRank": 3,
+            "proTeam": "SF"
+          },
+          {
+            "player_id": 3917232,
+            "name": "Tyler Bass",
+            "position": "K",
+            "posRank": 9,
+            "proTeam": "BUF"
+          },
+          {
+            "player_id": -16021,
+            "name": "Eagles D/ST",
+            "position": "D/ST",
+            "posRank": 2,
+            "proTeam": "PHI"
+          }
+        ]
+      },
+      "2023": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0,
+        "points_for": 0.0,
+        "points_against": 0.0,
+        "acquisitions": 0,
+        "trades": 0,
+        "drops": 0,
+        "standing": 0,
+        "draft_projected_rank": 0,
+        "playoff_pct": 0,
+        "roster": []
+      }
+    }
+  }
+}
